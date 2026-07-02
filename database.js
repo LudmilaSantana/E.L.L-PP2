@@ -19,4 +19,3 @@ db.serialize(() => {
 });
 
 console.log(db);
-module.exports = db

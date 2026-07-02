@@ -1,0 +1,25 @@
+{
+  "name": "e.l.l-pp2",
+  "version": "1.0.0",
+  "description": "Sistema de Agendamento de Espaços\r Projeto da disciplina PP2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LudmilaSantana/E.L.L-PP2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LudmilaSantana/E.L.L-PP2/issues"
+  },
+  "homepage": "https://github.com/LudmilaSantana/E.L.L-PP2#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "sqlite3": "^5.1.7"
+  }
+}
